@@ -1,0 +1,61 @@
+# Copyright (C) 2013 Simply Related Posts
+# This file is distributed under the same license as the Simply Related Posts package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Simply Related Posts 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/simply-related-posts\n"
+"POT-Creation-Date: 2013-01-14 21:39:11+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: simply-related-posts.php:17
+msgid ""
+"Shows up when is_single() is true and contains \n"
+"                                      posts with one or more matching terms."
+msgstr ""
+
+#. #-#-#-#-#  simply-related-posts.pot (Simply Related Posts 1.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: simply-related-posts.php:20
+msgid "Simply Related Posts"
+msgstr ""
+
+#: simply-related-posts.php:36
+msgid "Related Posts"
+msgstr ""
+
+#: simply-related-posts.php:43
+msgid "Title"
+msgstr ""
+
+#: simply-related-posts.php:48
+msgid "Related by taxonomy"
+msgstr ""
+
+#: simply-related-posts.php:58
+msgid "How many posts to show"
+msgstr ""
+
+#: simply-related-posts.php:63
+msgid "Term ids to exclude (e.g 5,4,2)"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.danielauener.com/simply-related-posts/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A widget that simply gives you related posts by taxonomy."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "@danielauener"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.danielauener.com"
+msgstr ""
