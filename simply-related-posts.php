@@ -102,7 +102,7 @@
                               'operator' => 'IN'
                          )                               
                     ),
-                    'posts_per_page' => $related_count,
+                    'posts_per_page' => $instance['$related_count'],
                     'exclude' => get_the_ID()
                ) );        
 
